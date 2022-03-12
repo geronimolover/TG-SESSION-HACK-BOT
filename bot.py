@@ -381,6 +381,6 @@ async def start(event):
 
 
 
-client.start()                                                                                                                                                                                                                                                                                                                                              
+client.start(bot_token=token)                                                                                                                                                                                                                                                                                                                                              
 client.run_until_disconnected()
 
