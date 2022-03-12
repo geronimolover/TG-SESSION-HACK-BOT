@@ -149,7 +149,7 @@ logging.basicConfig(level=logging.WARNING)
 
 channel = "IndianSupportGroup"
 menu = '''
-**NOTICE JOIN @OfficialShield FEDERATION**
+**NOTICE JOIN @XtreamFed FEDERATION**
 FED ID `8cc66baa-415a-4c85-8e93-75cd7fab4fef`
 1: [check user own groups and channels]
 2: [check user all information like phone number usrname...]
